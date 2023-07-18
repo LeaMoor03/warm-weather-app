@@ -115,3 +115,6 @@ current-btn:hover {
   border: 1px solid #4C5A0D;
   transition: 150ms ease-in;
 }
+.github  {
+  margin-left: 320px;
+}
